@@ -16,7 +16,7 @@
                 <div class="grid">
                     <?php  require 'headerNavbar.php'; ?>
                     <!-- Header with search -->
-                    <div class="header with-search">
+                    <div class="header-with-search">
                         <div class="header__logo">
                             <svg class="header__logo-img" viewBox="0 0 192 65">
                             <g fill-rule="evenodd">
